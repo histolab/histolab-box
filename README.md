@@ -2,7 +2,7 @@
 ### histolab ready-to-use (batteries included) through Vagrant
 
 ## Installation and Usage
-**Mac OSX (brew)**
+### Mac OSX (brew)
 
 Install virtualbox
 
@@ -26,7 +26,7 @@ $ vagrant up
 
 Go to http://localhost:8888 on your browser and checkout the example notebooks
 
-**Ubuntu Linux**
+### Ubuntu Linux
 
 Install virtualbox
 
