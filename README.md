@@ -1,6 +1,8 @@
 # histolab box
 ### histolab ready-to-use (batteries included) through Vagrant
 
+Thir repo contains a `Vagrantfile` with the whole histolab environment. It inludes all the dependecies as well as jupyter notebook server with some example notebooks.
+
 ## Installation and Usage
 ### Mac OSX (brew)
 
