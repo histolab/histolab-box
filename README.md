@@ -76,3 +76,4 @@ Extract the archive and using the shell enter into the extracted directory
 $ cd histolab-box-master
 $ vagrant up
 ```
+Go to http://localhost:8888 on your browser and checkout the example notebooks
