@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.vagrant
+vagrant
+*.log
+.DS_Store
