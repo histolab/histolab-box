@@ -19,7 +19,7 @@ $ brew cask install vagrant
 [Download histolab-box](https://github.com/histolab/histolab-box/archive/master.zip)
 
 ```
-$ unzip master.zip
+$ unzip histolab-box-master.zip
 $ cd histolab-box
 $ vagrant up
 ```
@@ -44,7 +44,7 @@ $ sudo apt install ./vagrant_2.2.9_x86_64.deb
 [Download histolab-box](https://github.com/histolab/histolab-box/archive/master.zip)
 
 ```
-$ unzip master.zip
+$ unzip histolab-box-master.zip
 $ cd histolab-box
 $ vagrant up
 ```
