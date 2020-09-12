@@ -1,5 +1,5 @@
 # histolab box
-### histolab ready-to-use (batteries included) through Vagrant or Docker
+### histolab ready-to-use (batteries included) through Docker
 
 This repo contains a complete histolab environment that can be used through `Docker`. 
 It inludes all the dependecies as well as jupyter notebook server with a complete example notebook.
