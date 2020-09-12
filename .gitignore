@@ -1,6 +1,4 @@
 .python-version
 .ipynb_checkpoints
-.vagrant
-vagrant
 *.log
 .DS_Store
