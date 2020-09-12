@@ -28,3 +28,5 @@ docker run -p 8888:8888 histolab/histolab-box
 Open the jupyter notebook at the address you can see in the shell output:
 
 e.g.  http://127.0.0.1:8888/?token=3b48d331ef94f1862108836416dd11a4b29d6f0738166d0a
+
+![image](https://user-images.githubusercontent.com/4196091/92994324-9ca03300-f4f9-11ea-9c09-7b48b5d9f89e.png)
