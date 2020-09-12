@@ -11,6 +11,27 @@ Download and install docker according to your operating system
  - https://docs.docker.com/engine/install/ubuntu/
  - https://docs.docker.com/docker-for-windows/install/
  
+### Check your installation
+
+#### Mac OSX and Linux
+
+Open a command-line terminal, and try out some Docker commands.
+
+Run `docker version` to check that you have the latest release installed.
+
+Run `docker run hello-world` to verify that Docker is pulling images and running as expected.
+
+#### Windows
+
+Open a command-line terminal like PowerShell, and try out some Docker commands!
+
+Run `docker version` to check the version.
+
+Run `docker run hello-world` to verify that Docker can pull and run images.
+
+ 
+### Run histolab-box
+
 Once docker is up and running on your machine, you need to pull the official histolab-box docker image from [dockerhub](https://hub.docker.com/r/histolab/histolab-box) using the command:
 
 ```shell
