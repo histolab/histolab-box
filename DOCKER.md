@@ -60,7 +60,7 @@ $ git clone https://github.com/histolab/histolab-box.git
 In the same terminal run
 ```bash
 $ cd histolab-box
-$ docker build -t histolab/histolab
+$ docker build -t histolab/histolab .
 ```
 
 When the build process is complete
