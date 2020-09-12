@@ -11,7 +11,7 @@ Download and install docker according to your operating system
  - https://docs.docker.com/engine/install/ubuntu/
  - https://docs.docker.com/docker-for-windows/install/
  
-Once docker is up and running on your machine, you need to pull the official histolab-box docker image from dockerhub https://hub.docker.com/r/histolab/histolab-box
+Once docker is up and running on your machine, you need to pull the official histolab-box docker image from [dockerhub](https://hub.docker.com/r/histolab/histolab-box) using the command:
 
 ```shell
 docker pull histolab/histolab-box
